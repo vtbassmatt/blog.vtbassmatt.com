@@ -3,7 +3,7 @@ Initial setup
 
 1. Create a virtualenv and switch into it.
 2. `pip install pelican markdown Fabric`
-3. Make sure the theme, crowsfoot, is available: `git clone https://github.com/vtbassmatt/crowsfoot`
+3. Make sure the theme, crowsfoot, is available: `git clone https://github.com/vtbassmatt/crowsfoot.git`
 4. Edit pelicanconf.py to make `THEME` point to the theme directory.
 
 Regular publishing
