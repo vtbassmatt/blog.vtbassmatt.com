@@ -1,0 +1,9 @@
+# Pelican output
+cache/*
+output/*
+
+# Python stuff
+*.pyc
+
+# Mac stuff
+.DS_Store
