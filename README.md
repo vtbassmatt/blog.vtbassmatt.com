@@ -1,3 +1,5 @@
+This is the source for http://blog.vtbassmatt.com, "Computer Science + Beer".
+
 Initial setup
 =============
 
