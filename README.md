@@ -11,4 +11,5 @@ Regular publishing
 
 1. Edit or create some content in `content/`.
 2. `fab build` to preview locally.
-3. `fab publish` to go live.
+3. `fab preview` to generate the live site without publishing.
+4. `fab publish` to go live.

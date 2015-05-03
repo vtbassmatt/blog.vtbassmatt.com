@@ -1,1 +1,2 @@
 - index of tags
+- better looking favicon
