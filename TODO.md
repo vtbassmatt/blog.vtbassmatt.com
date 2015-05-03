@@ -1,3 +1,3 @@
 - show tags in articles
 - index of tags
-- Facebook metadata
+- fix Facebook metadata on author, category pages
