@@ -1,2 +1,1 @@
-- show tags in articles
 - index of tags
