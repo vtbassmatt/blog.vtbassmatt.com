@@ -1,0 +1,17 @@
+Title: 2015 BJCP guidelines released
+Date: 2015-05-06 19:42
+Category: Articles
+Tags: bjcp, data, index
+Summary: Your humble author has to re-learn everything about beer styles.
+
+Oh dear. The BJCP released its updated [2015 style guidelines](http://bjcp.org/docs/2015_Guidelines_Beer.pdf) today. I'm ashamed to say it's the first time I've read them, even though they've been available for months to collect feedback. There's been a lot of [good discussion](https://www.homebrewersassociation.org/forum/index.php?topic=23082.0) around the internet, not [100% positive](http://www.beeradvocate.com/community/threads/2015-bjcp-style-guidelines-released.288738/). For me, there are two downsides: One, most of the styles I enjoy have moved (so my beloved 14b American IPA has become 21a American IPA), and two, there are a lot more styles recognized now. Personally I think the new guidelines moved in the correct direction, and most of the pushback should die down as people get accustomed to the new document.
+
+The new styles and their effect on my ability to locate a particular style is common in managing electronic data. Our ability to generate and store data has never been greater. Back in 2012, domo.com created an infographic showing just how much stuff we create every *minute*, and it's astounding: [3,125 new photos and 204 million emails ](https://www.domo.com/blog/2012/06/how-much-data-is-created-every-minute/), for example. The amount has only gone up since then: [Vine](http://vine.co) and [Slack](http://slack.com), for instance, didn't exist when that infographic was created.
+
+But what good is all that data if you can't find the specific piece of it you're looking for later? Imagine your cell phone took a photo every second of every day. You'd have a perfect record of everything you did. But how would you find the picture of a flower you took a few weeks ago? You're wading through 86,400 pictures for every day, so you clearly can't just start looking backward through your photos until you find it.
+
+Instead, you likely have a way to skip to a much closer point to when the picture was taken. Say you always take a walk on Wednesdays &mdash; that narrows the set of days where you could have seen a flower pretty dramatically. And then say you remember taking a phone call at 9am right before heading out for the walk. You've further narrowed the set of photos that you have to dig through. If you have a way to access your photos by date and time, it's a much more tractable problem of looking at a few hundred photos instead of tens of thousands.
+
+What we just did is build an [index](http://en.wikipedia.org/wiki/Database_index) of the photos. We used something we knew about the data &mdash; what time and date each photo was taken &mdash; in order to jump quickly to the data we want to retrieve. A good index creates a mapping from a small number of items into a much larger set of items in a structured, systematic way. The BJCP guidelines actually do this on two levels: One, the entire universe of beers is mapped to a couple of dozen styles, and two, those several dozen styles are then grouped by affinity to one another.
+
+The BJCP does great work for the beer community, and I applaud their efforts to keep up with the evolving world of homebrew and commercial brewing culture. I'll take the one-time pain of having to re-learn my index of their index of beers in exchange for the deep research and analysis they've done.
