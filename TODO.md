@@ -1,2 +1,3 @@
+- make it easier to contact me
 - index of tags
 - better looking favicon
