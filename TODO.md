@@ -1,3 +1,5 @@
 - make it easier to contact me
+  - add email
+  - add [rel=me](http://indiewebcamp.com/How_to_set_up_web_sign-in_on_your_own_domain)
 - index of tags
 - better looking favicon
