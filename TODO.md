@@ -1,2 +1,3 @@
 - index of tags
 - better looking favicon
+- improve line spacing
