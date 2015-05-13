@@ -1,2 +1,3 @@
 - index of tags
 - better looking favicon
+- put post summary on the blog page and in the feed
