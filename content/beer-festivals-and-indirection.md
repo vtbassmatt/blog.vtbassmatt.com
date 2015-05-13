@@ -1,7 +1,7 @@
 Title: Beer Festivals + Indirection
 Date: 2015-05-13 05:08
 Category: Articles
-Tags: festival, indirection
+Tags: festival, indirection, decoupling, hi fi
 Summary: You can't go straight there.
 
 Now that Mother's Day has passed, it's safe to talk about Father's Day. And Father's Day in the northwest means the [Washington Brewer's Festival](http://washingtonbeer.com/festivals/washington-brewers-festival.php). It's a huge outdoor beer festival with over 400 beers from 105 breweries. Basically heaven for a beer fan like me. Each year, I try to use my tasting tokens only on beers I've never tried before. Ideally, only from breweries I've never tried before. That's usually possible since we have so many here.
