@@ -1,4 +1,2 @@
 - index of tags
 - better looking favicon
-- improve line spacing
-- edit template to invite people to email me
