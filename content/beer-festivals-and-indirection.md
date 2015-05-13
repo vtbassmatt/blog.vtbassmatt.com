@@ -1,4 +1,4 @@
-Title: Beer Festivals + Indirection
+Title: Beer festivals + indirection
 Date: 2015-05-13 05:08
 Category: Articles
 Tags: festival, indirection, decoupling, hi fi
