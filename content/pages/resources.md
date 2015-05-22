@@ -11,3 +11,8 @@ Beer
 Computer Science
 ----------------
 * [Wikipedia's computer science portal](http://en.wikipedia.org/wiki/Portal:Computer_science)
+
+
+Things I Need To Take a Closer Look At
+--------------------------------------
+* [CS Unplugged](http://csunplugged.org)

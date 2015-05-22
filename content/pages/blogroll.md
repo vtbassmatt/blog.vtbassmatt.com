@@ -6,3 +6,4 @@ If you enjoy the content here, you might also enjoy these blogs or podcasts:
 * [Nerds and Beer](http://www.nerdsandbeer.com/)
 * [The Beer Nerds](http://thebeernerds.net/)
 * [Good Beer Hunting](http://goodbeerhunting.com/)
+* [Talk Python To Me](http://www.talkpythontome.com)
