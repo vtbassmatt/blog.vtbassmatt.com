@@ -1,2 +1,3 @@
 - index of tags
 - better looking favicon
+- after upgrade to Pelican post-3.5.0, update content/variety.md with correct {tag} syntax
