@@ -8,6 +8,12 @@ SITESUBTITLE = u'Delicious alone, better together'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = [
+    'extra/htaccess',
+]
+EXTRA_PATH_METADATA = {
+    'extra/htaccess': {'path': '.htaccess'},
+}
 
 TIMEZONE = 'America/Los_Angeles'
 

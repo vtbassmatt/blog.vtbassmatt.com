@@ -1,0 +1,7 @@
+# Allow CORS
+Header always set Access-Control-Allow-Origin "*"
+
+# Force SSL
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://blog.vtbassmatt.com/$1 [R,L]
