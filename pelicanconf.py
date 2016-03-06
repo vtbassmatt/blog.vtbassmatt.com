@@ -44,7 +44,7 @@ THEME = "/Users/mattc/Projects/blog.vtbassmatt.com/crowsfoot"
 # Crowsfoot Theme Settings
 EMAIL_ADDRESS = "vtbassmatt@gmail.com"
 GITHUB_ADDRESS = "https://github.com/vtbassmatt"
-SO_ADDRESS = "http://stackoverflow.com/users/481231/matt-cooper"
+SO_ADDRESS = "https://stackoverflow.com/users/481231/matt-cooper"
 TWITTER_ADDRESS = "https://twitter.com/vtbassmatt"
 SHOW_ARTICLE_AUTHOR = False
 LICENSE_URL = "http://creativecommons.org/licenses/by-sa/4.0/"
